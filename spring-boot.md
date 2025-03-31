@@ -1,0 +1,56 @@
+# spring boot
+
+- What is spring boot?
+- Why spring boot?
+- Difference between spring and spring boot?
+- Exploring spring boot features
+- Pros and cons like with anything
+- Setting up a spring boot project
+- How do you run it?
+- What is an IoC container
+- Aspect Oriented Programming
+- Spring boot architecture
+- Spring boot annotations
+- Spring boot actuator
+- Restful services in spring boot
+- Spring MVC with thymeleaf
+- Service class, What is @Lazy, What is @Bean
+- Autowired
+- What is lazy initialization
+- Scheduling
+- Transaction management
+- Importance of logging
+- What is a spring bean?
+- Profile specific config
+- What is component scan
+- Hilbernate and JPA
+- What is auto configuration?
+- Caching
+- Database integration
+- CRUD operations
+- What is JpaRepository
+- MySQL and MongoDB
+- Spring boot security basics
+- Simple authentication?
+- Securing REST APIs with Spring Boot
+- Role-based access control
+- JWT authentication and authorization
+- OAuth2 with Spring Boot
+- Security Testing
+- Writing tests both unit and integration
+- Performance testing
+- Kafa and Message Queues
+- Pub Sub architecture
+- Configuration application.properties for different environments
+- Deploying using tomcat and other options
+- Load balancing
+- Read up advanced spring boot interview questions
+- Implement multi-tenancy
+- Async processing
+- What is API Gateway?
+- Upload and downloading files
+- what are spring boot profiles and how to manage
+- JWT based auth
+- How do you use Docker to containerize a spring app
+- Implement rate limiting
+
